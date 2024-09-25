@@ -1,5 +1,7 @@
 - Hello there, I'm Sam, I am currently a Personal Trainer who stubbled upon data analytics while looking for a career change. I have been a personal trainer for nearly a decade, and have a B.S. in Kinesiology with a focus in human performance.
 
+- I became a personal trainer because I am passionate about educating others about how to improve their health and well being through exercise. 
+
 - Once I started taking the Google Data Analytics Certification, I learned how engaging and challenging this field is; but it is also very rewarding.
 
 - The Google Cert taught me the foundations of using multiple types of software. Such as, R programming, Big Query, Tableau, and excel/ google sheets.
